@@ -28,18 +28,26 @@ android {
     packagingOptions {
         exclude 'META-INF/services/javax.annotation.processing.Processor'
     }
+
+
+    defaultConfig {
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
 }
 
 dependencies {
+    testCompile parent.ext.libJUnit
     compile project(':domain')
     compile project(':presentation')
     compile project(':repository')
     compile project(':datasources')
+    compile parent.ext.libAppCompat
     compile parent.ext.libButterknife
     provided parent.ext.libAnnotations
     provided parent.ext.libDaggerCompiler
     compile parent.ext.libDagger
-    compile parent.ext.libAppCompat
+    androidTestCompile parent.ext.libSupportTest
+    androidTestCompile parent.ext.libEspresso
 }
 
 
@@ -50,4 +58,13 @@ task checkstyle(type: Checkstyle) {
     exclude '**/gen/**'
 
     classpath = files()
+}
+
+
+task runAcceptanceTests(dependsOn: [':android:androidTest']) {
+    description 'Run application acceptance test.'
+}
+
+task runUnitTests(dependsOn: [':domain:test']) {
+    description 'Run unit tests for both domain layer.'
 }
