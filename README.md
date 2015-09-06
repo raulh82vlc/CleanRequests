@@ -1,21 +1,21 @@
 # CleanRequests
 Clean architecture
 -----------------
-This assignment is more to clarify a clean architecture rather than
-seeing a nive UI.
+This assignment is more to clarify a clean architecture
+rather than seeing a nice UI.
 
-It is decoupled in all different artifacts:
+It is decoupled between all different artifacts:
 datasources, repository, domain,  presentation
 and finally android
 
 Created by
 ----------
-Raul Hernandez Lopez
+**Raul Hernandez Lopez**
 in September 2015
 
 TW
 --
-@RaulHernandezL
+**@RaulHernandezL**
 
 email
 -----
