@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="presentation.presentation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/presentation/build/libs/presentation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

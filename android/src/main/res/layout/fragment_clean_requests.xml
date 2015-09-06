@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/click_requests"
+        style="@android:style/ButtonBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get info" />
+
+    <TextView
+        android:id="@+id/char_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vertical_margin"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="@dimen/text_size" />
+
+    <View
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:alpha="0.6"
+        android:background="@android:color/darker_gray"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/selectable_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vertical_margin"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="@dimen/text_input_size"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/click_filter_other"
+        style="@android:style/Widget.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/count_words"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vertical_margin"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="@dimen/text_size" />
+
+    <View
+        android:id="@+id/line2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:alpha="0.6"
+        android:background="@android:color/darker_gray"
+        android:visibility="gone" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vertical_margin">
+
+        <TextView
+            android:id="@+id/each_char_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size" />
+    </ScrollView>
+</LinearLayout>

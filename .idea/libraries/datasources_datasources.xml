@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="datasources.datasources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datasources/build/libs/datasources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

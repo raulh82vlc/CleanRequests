@@ -1,0 +1,19 @@
+apply plugin: 'java'
+apply plugin: 'checkstyle'
+apply plugin: 'war'
+
+sourceCompatibility = JavaVersion.VERSION_1_7
+targetCompatibility = JavaVersion.VERSION_1_7
+
+dependencies {
+    compile project(':domain')
+}
+
+task checkstyle(type: Checkstyle) {
+    configFile file('../config/checkstyle/checkstyle.xml')
+    source 'src'
+    include '**/*.java'
+    exclude '**/gen/**'
+
+    classpath = files()
+}

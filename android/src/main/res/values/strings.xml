@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CleanRequests</string>
+    <string name="loading_first10th">Loading 10st character...</string>
+    <string name="intro_first_char">the 10th char is:</string>
+    <string name="error_first10th">Error loading the 10th char</string>
+    <string name="load_each_10th_char">Each 10th char are:\n</string>
+    <string name="error_each10thchar">Error loading each 10th char</string>
+    <string name="count_word_loaded">Word (number of times):\n</string>
+    <string name="no_occurrences">There are not results for:</string>
+    <string name="error_word_count">Error loading the number of words</string>
+    <string name="error_internet">Internet connection is broken.\nTry again connecting your WiFi or Data Connection</string>
+    <string name="undefined_answer">\???</string>
+    <string name="loading_each10thchar">Loading each 10th character...</string>
+    <string name="loading_word_count">Loading words count...</string>
+    <string name="filter">Filter</string>
+</resources>

@@ -1,0 +1,17 @@
+com.raul82vlc.clearrequests.repository
+com.raul82vlc.clearrequests.repository.datasources
+com.raulh82vlc.cleanrequests
+com.raulh82vlc.cleanrequests.di.components
+com.raulh82vlc.cleanrequests.di.modules
+com.raulh82vlc.cleanrequests.di.scopes
+com.raulh82vlc.cleanrequests.domain
+com.raulh82vlc.cleanrequests.ui.activities
+com.raulh82vlc.cleanrequests.ui.fragments
+com.raulh82vlc.clearrequests.datasources.api
+com.raulh82vlc.clearrequests.datasources.datasources
+com.raulh82vlc.clearrequests.datasources.datasources.mapper
+com.raulh82vlc.clearrequests.domain.executors
+com.raulh82vlc.clearrequests.domain.interactors
+com.raulh82vlc.clearrequests.domain.model
+com.raulh82vlc.clearrequests.domain.repository
+com.raulh82vlc.clearrequests.presentation

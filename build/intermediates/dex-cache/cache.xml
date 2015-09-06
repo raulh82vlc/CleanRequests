@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/javax.inject-1-87b40a4fbcbaf3b3e661d6d2a7b841b1a3731fc4.jar" />
+    </item>
+    <item
+        jar="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/classes-c586d104eb6e33d55a4c9ebf0fc098ee88f82a5a.jar" />
+    </item>
+    <item
+        jar="/Users/raul/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-8fb8f4a53955393d4bedd67ef829689688859455.jar" />
+    </item>
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-producers/2.0-beta/80276338d1c2542ebebac542b535d1ecd48a3fd7/dagger-producers-2.0-beta.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80276338d1c2542ebebac542b535d1ecd48a3fd7">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/dagger-producers-2.0-beta-ae6a8de6a1f85bd138321c102d221116bbee754f.jar" />
+    </item>
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/guava-18.0-59c1bc696d91a6fdb4ff32b9146d7cfc347a21aa.jar" />
+    </item>
+    <item
+        jar="/Users/raul/Desktop/android/CleanRequests/repository/build/libs/repository.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2440c7e2a86d976cf08d6ac7e01ce96ac85a36f6">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/repository-68381fae751b76f236a8e42761c6d3e6d3ae9e04.jar" />
+    </item>
+    <item
+        jar="/Users/raul/Desktop/android/CleanRequests/presentation/build/libs/presentation.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40d47e5a5884a4fa54f10cc28c663740eda177e7">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/presentation-04890e52b1d37068a3276c3aa0694ee9760b785b.jar" />
+    </item>
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-compiler/2.0/2c5c7cfd604076f09eac6fd0783b3eebbc125732/dagger-compiler-2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c5c7cfd604076f09eac6fd0783b3eebbc125732">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/dagger-compiler-2.0-0d8b76bbd9ae499bf4fa4806fba9d63bf33f8ec1.jar" />
+    </item>
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/butterknife-6.1.0-35f6bf56d2bd3d845b56f118ba54f47ea92e710a.jar" />
+    </item>
+    <item
+        jar="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/classes-560113784cbda4101605c309b40572137433453d.jar" />
+    </item>
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/gson-2.2.4-bd2983f74e00e0a018200d7cf2a5714acb122780.jar" />
+    </item>
+    <item
+        jar="/Users/raul/Desktop/android/CleanRequests/domain/build/libs/domain.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe57964add8b0f8ec30d71a5d350f4178b209060">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/domain-8f63309705da3fc6c595c7fc0486e15e64d08f70.jar" />
+    </item>
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0/da7ba0ee1d30edd955da276cdf01d3d7cb24aedc/dagger-2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/dagger-2.0-e3ec059bedac4dc429ba3d8a6dfea063a7c0a31f.jar" />
+    </item>
+    <item
+        jar="/Users/raul/Desktop/android/CleanRequests/datasources/build/libs/datasources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9a6e83164842bbbfbdff95751b981c1918736b4e">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/datasources-e903fb5611b811171347fd3cfc69eea1e1d7369e.jar" />
+    </item>
+    <item
+        jar="/Users/raul/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/retrofit-1.6.1-b3274626cc1547e89e67c1f191f7fef9c9fe0379.jar" />
+    </item>
+    <item
+        jar="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/raul/Desktop/android/CleanRequests/android/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-04a044f41e332533b7dd5440a5a43e8b7e3b38e6.jar" />
+    </item>
+
+</items>
