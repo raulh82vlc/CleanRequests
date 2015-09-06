@@ -25,6 +25,10 @@ allprojects {
         libAnnotations = 'org.glassfish:javax.annotation:10.0-b28'
         libAppCompat = 'com.android.support:appcompat-v7:22.0.+'
         libRetrofit = 'com.squareup.retrofit:retrofit:1.6.1'
+        libSupportTest = 'com.android.support.test:testing-support-lib:0.1'
+        libEspresso = "com.android.support.test.espresso:espresso-core:2.0"
+        libJUnit = 'junit:junit:4.11'
+        libMockito = 'org.mockito:mockito-core:1.9.5'
     }
 
     repositories {

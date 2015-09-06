@@ -6,8 +6,11 @@ sourceCompatibility = JavaVersion.VERSION_1_7
 targetCompatibility = JavaVersion.VERSION_1_7
 
 dependencies {
+    testCompile parent.ext.libJUnit
     providedCompile parent.ext.libDaggerCompiler
     compile parent.ext.libDagger
+    providedCompile parent.ext.libAnnotations
+    testCompile parent.ext.libMockito
 }
 
 task checkstyle(type: Checkstyle) {
@@ -17,4 +20,10 @@ task checkstyle(type: Checkstyle) {
     exclude '**/gen/**'
 
     classpath = files()
+}
+
+sourceSets {
+    test {
+        java.srcDirs = ['test/java']
+    }
 }

@@ -46,7 +46,8 @@ public class ThreadsPoolExecutor implements InteractorExecutor {
 
     @Inject
     ThreadsPoolExecutor() {
-        threadsPoolExecutor = new ThreadPoolExecutor(CORE_DEFAULT_SIZE, MAX_SIZE, TIME_OUT_TIME, TIME_UNITS, WORKERS_QUEUE);
+        threadsPoolExecutor = new ThreadPoolExecutor(CORE_DEFAULT_SIZE, MAX_SIZE,
+                TIME_OUT_TIME, TIME_UNITS, WORKERS_QUEUE);
     }
 
     @Override
