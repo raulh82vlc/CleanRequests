@@ -20,3 +20,7 @@ TW
 email
 -----
 raul.h82@gmail.com
+
+my blog with this post
+----------------------
+http://insightsandprojects.tumblr.com/post/128488400606/clean-architecture-for-requests
